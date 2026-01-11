@@ -13,4 +13,4 @@ def input_output():
 
     print("Hello, " + name + "!")
     print("You are " + str(age) + " years old.")
-    print("Your height is " + str(height) + " " +  "meters" + ".")
+    print("Your height is " + str(height) + " meters" + ".")
